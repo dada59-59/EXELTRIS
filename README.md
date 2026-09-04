@@ -8,8 +8,8 @@ Développé en assembleur par IA, fonctionnel sur EXL100 et EXELTEL ainsi que da
 - exeltris.rom => rom utilisable dans l'émulateur ou à charger en cartouche
 - exeltris.cram => fichier EXELMEMOIRE à charger dans l'emulateur
 - exeltris.k7 => fichier K7 pour émulateur, à charger à partir de l'exelmémoire : BKP => (1) TAPE -> CRAM, CRAM NAME=TRIS, lancement sous basic par CALL EXEC(32772)
-- exeltris.waw => fichier waw pour chargement par lecteur cassette, à charger à partir de l'exelmémoire : BKP => (1) TAPE -> CRAM, CRAM NAME=TRIS, lancement sous basic par CALL EXEC(32772)
-- exeltris.fd => fichier image disquette pour émulateur, le fichier tools-exeltris.fd contient les outils l'outils EXEC pour lancer le jeu par EXEC TRIS
+- exeltris.wav => fichier wav pour chargement par lecteur cassette, à charger à partir de l'exelmémoire : BKP => (1) TAPE -> CRAM, CRAM NAME=TRIS, lancement sous basic par CALL EXEC(32772)
+- exeltris.fd => fichier image disquette pour émulateur, le fichier tools-exeltris.fd contient l'outils EXEC pour lancer le jeu par EXEC TRIS
 
 -----------------------------------------
 Crédits : Merci aux valeureux partisans des systèmes obscures : 

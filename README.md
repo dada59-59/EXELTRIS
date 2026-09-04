@@ -2,6 +2,11 @@
 -----------------------------------------
 EXELTRIS : Jeux de type puzzle en mouvement pour Exelvision : EXL100 / EXELTEL
 
+
+
+![intro screen](https://github.com/dada59-59/EXELTRIS/blob/main/exeltris_game.png)
+
+
 Développé en assembleur par IA, fonctionnel sur EXL100 et EXELTEL ainsi que dans les émulateurs 
 
 - exeltris.asm => fichier source
